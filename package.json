@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  },
+  "name": "katas",
+  "version": "1.0.0",
+  "main": "1.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abstract-object/lhl-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abstract-object/lhl-kata/issues"
+  },
+  "homepage": "https://github.com/abstract-object/lhl-kata#readme",
+  "description": ""
+}
